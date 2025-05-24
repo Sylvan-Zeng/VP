@@ -1,5 +1,5 @@
-# VP
-Virtual pet
+# Virtual pet
+
 At the beginning of the program, it will prompt the user to select the type of pet (such as dog, cat, pig, etc.), and then enter the name of the pet. The system creates a pet object based on the selection and outputs a welcome message.
 
 Next, the program enters a loop, continuously allowing the user to interact with the pet until the pet dies or the user opts to exit. In each round of the loop, users can select different operations from the menu, including: feeding, playing, bathing, sleeping, administering medicine, checking the pet's status or quitting the game. Each operation will affect the attribute values of the pet, such as health, hunger, happiness, cleanliness and energy.
